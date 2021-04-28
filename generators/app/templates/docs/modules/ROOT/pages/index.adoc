@@ -1,0 +1,27 @@
+= Documento <%= appName %>
+:Author:    MINSAIT
+:Email:     <%= email %>
+:Date:      2021-04-08
+:Revision:  v1.0
+:description: Documento <%= appName %>
+:organization: MAUC
+:doctype: book
+// Settings:
+:experimental:
+:reproducible:
+:icons: font
+:listing-caption: Listing
+:source-highlighter: rouge
+:sectnums:
+:toc:
+:toclevels: 3
+// toc-title La definición debe situarse abajo del título del documento sin líneas en blanco!
+:toc-title: Contenido
+:pdf-page-size: Letter
+:pdf-theme: mauc
+:pdf-themesdir: {docdir}/../../../../../mauc-asciidoctor-template
+:source-highlighter: rouge
+:chapter-label:
+// Opciones de configuración en español (ES) para asciidoc
+// where are images located?
+:imagesdir: ../assets/images

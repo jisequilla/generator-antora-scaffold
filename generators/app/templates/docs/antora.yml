@@ -1,0 +1,6 @@
+name: <%= appName %>
+title: Documentacion <%= appName %>
+version: dev
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
