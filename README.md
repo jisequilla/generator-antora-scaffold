@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-mauc-document using [npm
 
 ```bash
 npm install -g yo
-npm install -g generator-mauc-document
+npm install -g generator-antora-scaffold
 ```
 
 Then generate your new project:
 
 ```bash
-yo mauc-document
+yo antora-scaffold
 ```
 
 ## Getting To Know Yeoman

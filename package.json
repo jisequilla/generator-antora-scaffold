@@ -1,5 +1,5 @@
 {
-  "name": "generator-mauc-document",
+  "name": "generator-antora-scaffold",
   "version": "0.0.0",
   "description": "Genera scaffold de la documentacion",
   "homepage": "",
@@ -74,6 +74,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "jrisequilla/generator-mauc-document",
+  "repository": "jrisequilla/generator-antora-scaffold",
   "license": "Apache-2.0"
 }
